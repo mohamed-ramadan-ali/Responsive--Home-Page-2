@@ -1,0 +1,194 @@
+*{     font-family: 'Poppins', sans-serif ;}
+
+
+
+
+
+
+
+
+
+.nav-icon{ height: 40px;}
+.nav-icons { width: 100px; height: 40px; border-left: solid 1px rgb(189, 178, 178); } 
+.font-color{ font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #242424 !important} 
+   
+    .navbar-nav a:hover { color: #787878 !important}
+
+
+
+
+
+
+
+.slider-data { height:625px; width: 100%;
+    background-image: url(../images/asset\ 46.jpeg) ;
+    background-size: cover;
+    background-position: center;}
+
+    .slider-data2 { height:625px; width: 100%;
+        background-image: url(../images/asset\ 45.jpeg) ;
+        background-size: cover;
+        background-position: center;}
+
+    .slider-ovrlay{ background-color: rgba(0, 0, 0, 0.5);
+        height: 100%;
+        width: 100%; }
+
+    .slider-info h1 { font-size: 110px;
+    color: white;
+    letter-spacing: -3px !important;
+    line-height: 1.25;
+font-weight: 700;}
+
+.slider-info h4 { font-size: 18px;
+    color: white;
+    line-height: 1.25;
+font-weight: 400;}
+
+
+.carousel-control-prev{ background-color: transparent !important; width: 50px !important;
+     height: 50px !important; top: 50%; border: solid 1px white;} 
+     
+     .carousel-control-next { background-color: transparent !important; width: 50px !important;
+        height: 50px !important; top: 58%; left: 0px; border: solid 1px white;}
+
+
+
+
+
+
+
+
+
+
+        .section2{ width: 100%; 
+        }        
+
+        .sec-2-data h6 {
+            font-weight: 600;
+            font-size: 14px;
+            letter-spacing: 0.05em; 
+            color: #1f1f1f !important; }
+
+            .sec-2-data p { 
+
+                font-family: 'Source Sans Pro', sans-serif; 
+                color: #787878;
+                line-height: 1.5;
+                font-size: 24px;
+               
+            }
+
+            .sec-2-data button{ border-radius: 0%; font-size: 12px;}
+
+
+
+.section3{ width: 100%;}
+.sec-3-icon a { text-decoration: none; color: black;}
+.brdr{ border-top: #eee solid 1px;
+    border-bottom: #eee solid 1px;}
+
+.sec3-data button {border-radius: 0%; font-size: 12px; }
+.sec3-data a { font-size: 14px; color: #454545;} 
+.sec3-data p { 
+    color: #787878;
+    font-weight: 100 !important;
+    font-size: 19px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";}
+
+.under-line{ width: 75%; height: 1px; background-color:#454545 ; margin-top: 5px;}
+
+
+
+
+
+
+
+.adress{  position: relative;}
+.bk{  font-size: 90px; font-weight: 800; color: #f2f2f2;}
+.bold{ position:absolute; font-size: 40px; font-weight: 600 ; bottom: 8px; letter-spacing: -1px;}
+.team p { color:#787878; }
+
+
+
+
+.team-photos1{position: relative; overflow: hidden;}
+
+.team-icon{ color: white;}
+
+.member-info{ position: absolute; bottom: 0px; left: 5px;  color: white; }
+
+.team-info{ width: 89.7%; height: 100%; background-color:rgba(0, 195, 218, 0.9); position: absolute; top: 600px; left: 15px; transition: all 0.5s;}
+
+.team-photos1:hover .team-info{ width: 89.7%; height: 100%; background-color:rgba(0, 195, 218, 0.9); position: absolute; top: 0px; left: 15px;  }
+
+
+
+
+
+.sec-5{ width: 100%; 
+     background-image: url(../images/asset\ 48.jpeg); 
+    background-position: center;
+background-size: cover;}
+
+
+.sec-5-ovrlay{ background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+    width: 100%; } 
+
+.serv-card { color: white;}
+    .serv-card i { font-size: 50px;}
+
+    .w-color{ color:rgba(88, 82, 82, 0.6);}
+
+    .check-markes { color: white;}
+
+
+
+
+
+
+    .work-card{ position: relative; overflow: hidden;}
+   
+
+    .img-card-mov{ width: 80%;height: 30%; ;   position:absolute; top: 550px; left: 45px; transition: all 0.3s;}
+
+    .work-card:hover .img-card-mov {  width: 80%;height: 30%; ;   position:absolute; top: 230px; left: 45px;}
+.img-zom {transition: all 1s;  }
+    .work-card:hover .img-zom { transform: scale(1.3);}
+
+
+    .bord-rad { border-radius: 5rem;}
+
+    .prices{ background-color: #f7f7f7; }
+
+
+    .price-con { background-color: white; }
+
+    .price-number{ border-bottom: solid 1px rgb(190, 186, 186) ;  }
+
+    .price-number h2 { font-size: 55px; font-weight: 500;}
+
+    .dollar{ font-size: 25px}
+
+    .backage-options p { color: #a6a6a6;}
+
+
+
+
+
+
+    .opinion-card img{ width: 100px; height: 100px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: -90px;  }
+        
+
+        .map iframe { width: 100%; height: 100%;}
+
+        .font-siz{ font-size: 25px; color: black;}
+
+        .fotr-line { border-top: solid 1px rgb(196, 187, 187); background-color: #f7f7f7;}
